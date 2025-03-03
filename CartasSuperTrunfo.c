@@ -10,7 +10,7 @@ int main() {
     int turismo;
     //pib(produto interno bruto)
 
-    printf("Carta 1 \n");
+    printf("Carta 2 \n");
 
     printf("Estado: \n");
     scanf("%c", &estado);
