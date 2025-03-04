@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-    char estado1;
-    char estado2;
+    char estado1 [10];
+    char estado2 [10];
     char codigo1 [20];
     char codigo2 [20];
     char cidade1 [40];
